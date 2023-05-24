@@ -1,0 +1,1636 @@
+fileFormatVersion: 2
+guid: 47cced558cad94a4fada62c068dee359
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 641
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4742c3611af7fd44abb5390148b889c4
+      internalID: -1703406981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 641
+        width: 91
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f30208a8ef37a148b0d107e7e886fb6
+      internalID: 1155633620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 641
+        width: 87
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e51cef60c871da4c844e6bbc33c03fb
+      internalID: -52076207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 641
+        width: 91
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cb78529e6543b47b15e6b12852e304
+      internalID: 2081268404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 641
+        width: 91
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d81e7248557fbb47bcb7b2581952c6a
+      internalID: -168749412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 641
+        width: 87
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259fe5dc6a0eff94a99a9786a2afdeb6
+      internalID: -1277978140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 481
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2124ca709638cd841bde2aa1cd71dc6c
+      internalID: 901786434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 481
+        width: 78
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6abf1e5665b67458fba594c8fa0ac8
+      internalID: 1299680522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 481
+        width: 68
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213a9c6a2f4a8a24291be91374b6dcf7
+      internalID: 1856654053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 481
+        width: 67
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82696b6c8f27a21488fc287d68335a78
+      internalID: -608080418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 481
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b575b11e9cc67419820480b8b46c18
+      internalID: -1888824224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 481
+        width: 74
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2816df5154d15438a81db02a1fe322
+      internalID: 1220368791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 481
+        width: 85
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bd77bc1e338834dae8a08f5df3e3b0
+      internalID: 1317429731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 481
+        width: 80
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540ef9a6d8304104b9c551eb9e9ecb4c
+      internalID: 1457644466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 481
+        width: 80
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9948599e2b0862c4fb8c0d94a15abfdc
+      internalID: 485723710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 481
+        width: 73
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd9fd95527b1b44180ac2787a3723ef
+      internalID: 2111394188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 2989
+        y: 481
+        width: 70
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0dc81a061e07fb4e95348523eaa2f60
+      internalID: -464538299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 3277
+        y: 481
+        width: 68
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d362e9d1924ee4faf43c16bce24374
+      internalID: 1288469821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 321
+        width: 76
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0269a7833a53c4f9909a1c39647d83
+      internalID: -198421245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 321
+        width: 90
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6e35b394da5e04ab0dbb512cd96b9a
+      internalID: 796167240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 321
+        width: 86
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8fd0abed7b28641a2bfbb31ed8be7d
+      internalID: -159953405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 321
+        width: 86
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee770b6cf47c73459aca743eccb1965
+      internalID: 125475314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 321
+        width: 86
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d61aa52f6dae340aedfc004dc5187b
+      internalID: 1445678407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 321
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744f60a5977b46f4c9fc82385b24ea4c
+      internalID: 957541275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 321
+        width: 93
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e744f56c208c6ed429f866467e13d87d
+      internalID: -2093159127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 321
+        width: 86
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438b25dc13637b24d9d79bf32f468779
+      internalID: 1186221550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 321
+        width: 89
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15376fe266698e34bb1f15fe7deee5d1
+      internalID: 1000393827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 3845
+        y: 321
+        width: 78
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea07caa723a7bd4d9c0205a7d85c942
+      internalID: 525636156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 321
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12dd0549dbeda8a49a6702725e741b8e
+      internalID: -1641884992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 321
+        width: 154
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd258a4e818026e439c7cad912d9519e
+      internalID: 2074256013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 322
+        width: 156
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0965115a464a7942b4e28f20481b46b
+      internalID: -414079653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 3188
+        y: 321
+        width: 160
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b110e252c769b94f8785f263cb6a560
+      internalID: -527940037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_121
+      rect:
+        serializedVersion: 2
+        x: 3534
+        y: 321
+        width: 101
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3dc784ab113854b858936546029226
+      internalID: 785027869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_122
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 161
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24708a7a7dd72be4581a01563b8fc38f
+      internalID: -1199790193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_127
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 161
+        width: 102
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d36a75d04662a64aa9cd7d156e3f243
+      internalID: 2120870807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_133
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 161
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40d6fd12c8cec9448dd23ab7273b724
+      internalID: -1962048530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_136
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 161
+        width: 85
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5abc41327b59d4fbeb232c25642fd4
+      internalID: -1450707898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_137
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 161
+        width: 90
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d58c4640e36f4d4589308f184ef2823
+      internalID: -1534982023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_141
+      rect:
+        serializedVersion: 2
+        x: 2692
+        y: 1
+        width: 128
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3b67e486db47e41944ec2581922c88
+      internalID: 1761769533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_147
+      rect:
+        serializedVersion: 2
+        x: 5293
+        y: 1
+        width: 114
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce14f69c2c6429748bfc03299f5ad67e
+      internalID: -158279169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_159
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 1
+        width: 95
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a3b17bfd8876b4fb1cba4de1d52aa3
+      internalID: 495709101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_170
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1
+        width: 72
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cea0812f795de419de902d380d8de8
+      internalID: -576777477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_171
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 1
+        width: 88
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd70ed432a9dd774e811f5a046fb0a01
+      internalID: -377743885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_175
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 1
+        width: 128
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4464eda933dec34981dfbb73c6eefd5
+      internalID: -1531429301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_183
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008329fa84d2242409615c3a2334ce17
+      internalID: 2030180330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_187
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 1
+        width: 131
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6094ee3fc27da0c4db907e80930fb0eb
+      internalID: 190807842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_189
+      rect:
+        serializedVersion: 2
+        x: 2980
+        y: 1
+        width: 128
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5028868aa67f28142a5a29d3bad4bd8b
+      internalID: 822868226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_194
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302f932f1da4d0841853d35d77a76f53
+      internalID: 1746333060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_195
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 1
+        width: 117
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca460a72b81553742b4c7f26ea2c1d14
+      internalID: 917843083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_204
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1
+        width: 70
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52305747cfee52e4f9dc66835b4075d8
+      internalID: -1148486629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_215
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 1
+        width: 114
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e15647c41ecd51419979df6d6470a06
+      internalID: 1830367414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_217
+      rect:
+        serializedVersion: 2
+        x: 3268
+        y: 1
+        width: 128
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1eb9ca65be8cb14f9597db204f6fe5d
+      internalID: 813619624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_218
+      rect:
+        serializedVersion: 2
+        x: 3559
+        y: 1
+        width: 125
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9378ae6ad9267d1459a6024d47421818
+      internalID: -1130022051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_219
+      rect:
+        serializedVersion: 2
+        x: 3847
+        y: 1
+        width: 125
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bb5f0c697bcbf4789c8dd21838bf4c
+      internalID: 108648580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_232
+      rect:
+        serializedVersion: 2
+        x: 4141
+        y: 1
+        width: 119
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1776fcbc13065fa41b3b00c8c1513449
+      internalID: -1677273643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_235
+      rect:
+        serializedVersion: 2
+        x: 4431
+        y: 1
+        width: 113
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e0d300cfb7c4e43b33ae00582fa6d6
+      internalID: 1433456368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_240
+      rect:
+        serializedVersion: 2
+        x: 4717
+        y: 1
+        width: 114
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc23fc213bc31294caee9cdaba35d98e
+      internalID: 1563347659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 5581
+        y: 1
+        width: 114
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb84fac25a9871548a9ae4edc70057c8
+      internalID: 2067517157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 5869
+        y: 1
+        width: 114
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5621a5d551aca54bbb01b4db03c64aa
+      internalID: -808981289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_slime_FREE_v1.0_288x160_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 6157
+        y: 1
+        width: 114
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212668525d8f01244b67f85321c0d690
+      internalID: 1476852425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      demon_slime_FREE_v1.0_288x160_spritesheet_142: 1183935338
+      demon_slime_FREE_v1.0_288x160_spritesheet_58: 1703870499
+      demon_slime_FREE_v1.0_288x160_spritesheet_41: -1510365212
+      demon_slime_FREE_v1.0_288x160_spritesheet_205: -952125148
+      demon_slime_FREE_v1.0_288x160_spritesheet_237: -229422217
+      demon_slime_FREE_v1.0_288x160_spritesheet_57: 293134241
+      demon_slime_FREE_v1.0_288x160_spritesheet_23: 1791317210
+      demon_slime_FREE_v1.0_288x160_spritesheet_222: -965222913
+      demon_slime_FREE_v1.0_288x160_spritesheet_216: -1558054661
+      demon_slime_FREE_v1.0_288x160_spritesheet_34: -1122123374
+      demon_slime_FREE_v1.0_288x160_spritesheet_71: 443105917
+      demon_slime_FREE_v1.0_288x160_spritesheet_167: -1933383121
+      demon_slime_FREE_v1.0_288x160_spritesheet_116: -1641884992
+      demon_slime_FREE_v1.0_288x160_spritesheet_122: -1199790193
+      demon_slime_FREE_v1.0_288x160_spritesheet_14: 731376946
+      demon_slime_FREE_v1.0_288x160_spritesheet_54: 470885589
+      demon_slime_FREE_v1.0_288x160_spritesheet_184: 1562639348
+      demon_slime_FREE_v1.0_288x160_spritesheet_129: 1765459137
+      demon_slime_FREE_v1.0_288x160_spritesheet_164: -1760673785
+      demon_slime_FREE_v1.0_288x160_spritesheet_150: 1472010816
+      demon_slime_FREE_v1.0_288x160_spritesheet_62: 19067147
+      demon_slime_FREE_v1.0_288x160_spritesheet_67: -1492777568
+      demon_slime_FREE_v1.0_288x160_spritesheet_179: 208160559
+      demon_slime_FREE_v1.0_288x160_spritesheet_19: -249113040
+      demon_slime_FREE_v1.0_288x160_spritesheet_189: 822868226
+      demon_slime_FREE_v1.0_288x160_spritesheet_232: -1677273643
+      demon_slime_FREE_v1.0_288x160_spritesheet_144: -811967394
+      demon_slime_FREE_v1.0_288x160_spritesheet_225: -959154994
+      demon_slime_FREE_v1.0_288x160_spritesheet_160: -247105876
+      demon_slime_FREE_v1.0_288x160_spritesheet_201: -1648394186
+      demon_slime_FREE_v1.0_288x160_spritesheet_85: 1263992568
+      demon_slime_FREE_v1.0_288x160_spritesheet_139: -89396567
+      demon_slime_FREE_v1.0_288x160_spritesheet_89: -1856070942
+      demon_slime_FREE_v1.0_288x160_spritesheet_209: 94184260
+      demon_slime_FREE_v1.0_288x160_spritesheet_187: 190807842
+      demon_slime_FREE_v1.0_288x160_spritesheet_112: -1444474138
+      demon_slime_FREE_v1.0_288x160_spritesheet_227: -1194026358
+      demon_slime_FREE_v1.0_288x160_spritesheet_121: 785027869
+      demon_slime_FREE_v1.0_288x160_spritesheet_171: -377743885
+      demon_slime_FREE_v1.0_288x160_spritesheet_96: 430241957
+      demon_slime_FREE_v1.0_288x160_spritesheet_132: 1466483599
+      demon_slime_FREE_v1.0_288x160_spritesheet_7: -412035231
+      demon_slime_FREE_v1.0_288x160_spritesheet_180: 650383321
+      demon_slime_FREE_v1.0_288x160_spritesheet_72: 485723710
+      demon_slime_FREE_v1.0_288x160_spritesheet_141: 1761769533
+      demon_slime_FREE_v1.0_288x160_spritesheet_158: 1473193451
+      demon_slime_FREE_v1.0_288x160_spritesheet_175: -1531429301
+      demon_slime_FREE_v1.0_288x160_spritesheet_172: 26387948
+      demon_slime_FREE_v1.0_288x160_spritesheet_43: -875671715
+      demon_slime_FREE_v1.0_288x160_spritesheet_68: 1220368791
+      demon_slime_FREE_v1.0_288x160_spritesheet_170: -576777477
+      demon_slime_FREE_v1.0_288x160_spritesheet_186: -1418057678
+      demon_slime_FREE_v1.0_288x160_spritesheet_90: -335986122
+      demon_slime_FREE_v1.0_288x160_spritesheet_5: -1066143248
+      demon_slime_FREE_v1.0_288x160_spritesheet_36: 1398304745
+      demon_slime_FREE_v1.0_288x160_spritesheet_75: 1288469821
+      demon_slime_FREE_v1.0_288x160_spritesheet_50: -792692
+      demon_slime_FREE_v1.0_288x160_spritesheet_217: 813619624
+      demon_slime_FREE_v1.0_288x160_spritesheet_173: -779311160
+      demon_slime_FREE_v1.0_288x160_spritesheet_192: 152855903
+      demon_slime_FREE_v1.0_288x160_spritesheet_218: -1130022051
+      demon_slime_FREE_v1.0_288x160_spritesheet_236: 1858149964
+      demon_slime_FREE_v1.0_288x160_spritesheet_55: -1163359465
+      demon_slime_FREE_v1.0_288x160_spritesheet_73: 2111394188
+      demon_slime_FREE_v1.0_288x160_spritesheet_44: -455949589
+      demon_slime_FREE_v1.0_288x160_spritesheet_219: 108648580
+      demon_slime_FREE_v1.0_288x160_spritesheet_99: -1370271843
+      demon_slime_FREE_v1.0_288x160_spritesheet_110: 1000393827
+      demon_slime_FREE_v1.0_288x160_spritesheet_117: 2074256013
+      demon_slime_FREE_v1.0_288x160_spritesheet_185: 883819308
+      demon_slime_FREE_v1.0_288x160_spritesheet_79: -198421245
+      demon_slime_FREE_v1.0_288x160_spritesheet_134: 1758209643
+      demon_slime_FREE_v1.0_288x160_spritesheet_162: 1906087797
+      demon_slime_FREE_v1.0_288x160_spritesheet_213: 1893397052
+      demon_slime_FREE_v1.0_288x160_spritesheet_49: -68426645
+      demon_slime_FREE_v1.0_288x160_spritesheet_238: 937992343
+      demon_slime_FREE_v1.0_288x160_spritesheet_45: -638087129
+      demon_slime_FREE_v1.0_288x160_spritesheet_20: -1867827784
+      demon_slime_FREE_v1.0_288x160_spritesheet_91: 1447383814
+      demon_slime_FREE_v1.0_288x160_spritesheet_169: -1664825373
+      demon_slime_FREE_v1.0_288x160_spritesheet_197: 1564391286
+      demon_slime_FREE_v1.0_288x160_spritesheet_92: -159953405
+      demon_slime_FREE_v1.0_288x160_spritesheet_100: -542618092
+      demon_slime_FREE_v1.0_288x160_spritesheet_114: -673562818
+      demon_slime_FREE_v1.0_288x160_spritesheet_229: 731994470
+      demon_slime_FREE_v1.0_288x160_spritesheet_98: 1853920802
+      demon_slime_FREE_v1.0_288x160_spritesheet_6: -1186594119
+      demon_slime_FREE_v1.0_288x160_spritesheet_136: -1450707898
+      demon_slime_FREE_v1.0_288x160_spritesheet_207: -224828113
+      demon_slime_FREE_v1.0_288x160_spritesheet_101: -1575322632
+      demon_slime_FREE_v1.0_288x160_spritesheet_133: -1962048530
+      demon_slime_FREE_v1.0_288x160_spritesheet_1: 2067517157
+      demon_slime_FREE_v1.0_288x160_spritesheet_137: -1534982023
+      demon_slime_FREE_v1.0_288x160_spritesheet_145: -730211816
+      demon_slime_FREE_v1.0_288x160_spritesheet_127: 2120870807
+      demon_slime_FREE_v1.0_288x160_spritesheet_198: -1232983069
+      demon_slime_FREE_v1.0_288x160_spritesheet_40: 901786434
+      demon_slime_FREE_v1.0_288x160_spritesheet_76: 1011093739
+      demon_slime_FREE_v1.0_288x160_spritesheet_29: 2057469576
+      demon_slime_FREE_v1.0_288x160_spritesheet_226: 381323915
+      demon_slime_FREE_v1.0_288x160_spritesheet_204: -1148486629
+      demon_slime_FREE_v1.0_288x160_spritesheet_12: 132579233
+      demon_slime_FREE_v1.0_288x160_spritesheet_33: -1124516354
+      demon_slime_FREE_v1.0_288x160_spritesheet_66: -1888824224
+      demon_slime_FREE_v1.0_288x160_spritesheet_28: 1818754534
+      demon_slime_FREE_v1.0_288x160_spritesheet_11: -665540398
+      demon_slime_FREE_v1.0_288x160_spritesheet_61: 1556154426
+      demon_slime_FREE_v1.0_288x160_spritesheet_65: -608080418
+      demon_slime_FREE_v1.0_288x160_spritesheet_174: 1638215132
+      demon_slime_FREE_v1.0_288x160_spritesheet_94: 125475314
+      demon_slime_FREE_v1.0_288x160_spritesheet_56: 752982908
+      demon_slime_FREE_v1.0_288x160_spritesheet_193: 1865272267
+      demon_slime_FREE_v1.0_288x160_spritesheet_27: -719357325
+      demon_slime_FREE_v1.0_288x160_spritesheet_195: 917843083
+      demon_slime_FREE_v1.0_288x160_spritesheet_210: 254680952
+      demon_slime_FREE_v1.0_288x160_spritesheet_37: -1828766081
+      demon_slime_FREE_v1.0_288x160_spritesheet_120: -527940037
+      demon_slime_FREE_v1.0_288x160_spritesheet_130: 632310898
+      demon_slime_FREE_v1.0_288x160_spritesheet_223: 949340540
+      demon_slime_FREE_v1.0_288x160_spritesheet_233: -1233008083
+      demon_slime_FREE_v1.0_288x160_spritesheet_240: 1563347659
+      demon_slime_FREE_v1.0_288x160_spritesheet_138: 1777461128
+      demon_slime_FREE_v1.0_288x160_spritesheet_231: -1327189458
+      demon_slime_FREE_v1.0_288x160_spritesheet_131: 1743939036
+      demon_slime_FREE_v1.0_288x160_spritesheet_148: 2011512373
+      demon_slime_FREE_v1.0_288x160_spritesheet_194: 1746333060
+      demon_slime_FREE_v1.0_288x160_spritesheet_166: 1821988884
+      demon_slime_FREE_v1.0_288x160_spritesheet_3: 1476852425
+      demon_slime_FREE_v1.0_288x160_spritesheet_168: -581464037
+      demon_slime_FREE_v1.0_288x160_spritesheet_230: -36011073
+      demon_slime_FREE_v1.0_288x160_spritesheet_155: 1377998195
+      demon_slime_FREE_v1.0_288x160_spritesheet_128: -222869640
+      demon_slime_FREE_v1.0_288x160_spritesheet_77: -664862853
+      demon_slime_FREE_v1.0_288x160_spritesheet_32: 1303926113
+      demon_slime_FREE_v1.0_288x160_spritesheet_153: 375034373
+      demon_slime_FREE_v1.0_288x160_spritesheet_31: -1776125426
+      demon_slime_FREE_v1.0_288x160_spritesheet_235: 1433456368
+      demon_slime_FREE_v1.0_288x160_spritesheet_52: -1640181946
+      demon_slime_FREE_v1.0_288x160_spritesheet_30: -1833370993
+      demon_slime_FREE_v1.0_288x160_spritesheet_95: 1445678407
+      demon_slime_FREE_v1.0_288x160_spritesheet_46: -855062448
+      demon_slime_FREE_v1.0_288x160_spritesheet_199: -411309269
+      demon_slime_FREE_v1.0_288x160_spritesheet_21: -1937362781
+      demon_slime_FREE_v1.0_288x160_spritesheet_221: 307856618
+      demon_slime_FREE_v1.0_288x160_spritesheet_8: 1405164714
+      demon_slime_FREE_v1.0_288x160_spritesheet_105: 641176822
+      demon_slime_FREE_v1.0_288x160_spritesheet_106: 957541275
+      demon_slime_FREE_v1.0_288x160_spritesheet_87: 796167240
+      demon_slime_FREE_v1.0_288x160_spritesheet_154: -1879134477
+      demon_slime_FREE_v1.0_288x160_spritesheet_38: -1410500161
+      demon_slime_FREE_v1.0_288x160_spritesheet_69: 1317429731
+      demon_slime_FREE_v1.0_288x160_spritesheet_2: -808981289
+      demon_slime_FREE_v1.0_288x160_spritesheet_181: 26135307
+      demon_slime_FREE_v1.0_288x160_spritesheet_18: -1277978140
+      demon_slime_FREE_v1.0_288x160_spritesheet_107: -2093159127
+      demon_slime_FREE_v1.0_288x160_spritesheet_161: -1093297212
+      demon_slime_FREE_v1.0_288x160_spritesheet_190: 1795276713
+      demon_slime_FREE_v1.0_288x160_spritesheet_125: -1104191136
+      demon_slime_FREE_v1.0_288x160_spritesheet_135: -527709142
+      demon_slime_FREE_v1.0_288x160_spritesheet_115: 525636156
+      demon_slime_FREE_v1.0_288x160_spritesheet_86: 1574886708
+      demon_slime_FREE_v1.0_288x160_spritesheet_147: -158279169
+      demon_slime_FREE_v1.0_288x160_spritesheet_177: 1501756387
+      demon_slime_FREE_v1.0_288x160_spritesheet_22: 1653250751
+      demon_slime_FREE_v1.0_288x160_spritesheet_35: 317292603
+      demon_slime_FREE_v1.0_288x160_spritesheet_176: -1355681557
+      demon_slime_FREE_v1.0_288x160_spritesheet_123: 1629235448
+      demon_slime_FREE_v1.0_288x160_spritesheet_182: 504137960
+      demon_slime_FREE_v1.0_288x160_spritesheet_74: -464538299
+      demon_slime_FREE_v1.0_288x160_spritesheet_203: 1700741286
+      demon_slime_FREE_v1.0_288x160_spritesheet_140: -2106371949
+      demon_slime_FREE_v1.0_288x160_spritesheet_157: 1532506363
+      demon_slime_FREE_v1.0_288x160_spritesheet_228: -1908243964
+      demon_slime_FREE_v1.0_288x160_spritesheet_42: -337672868
+      demon_slime_FREE_v1.0_288x160_spritesheet_149: -185240495
+      demon_slime_FREE_v1.0_288x160_spritesheet_156: 367951093
+      demon_slime_FREE_v1.0_288x160_spritesheet_215: 1830367414
+      demon_slime_FREE_v1.0_288x160_spritesheet_83: 1770881634
+      demon_slime_FREE_v1.0_288x160_spritesheet_48: 1792885648
+      demon_slime_FREE_v1.0_288x160_spritesheet_152: 139496286
+      demon_slime_FREE_v1.0_288x160_spritesheet_26: -1226572212
+      demon_slime_FREE_v1.0_288x160_spritesheet_59: 1963001606
+      demon_slime_FREE_v1.0_288x160_spritesheet_4: 1868031191
+      demon_slime_FREE_v1.0_288x160_spritesheet_78: -40194915
+      demon_slime_FREE_v1.0_288x160_spritesheet_108: 1186221550
+      demon_slime_FREE_v1.0_288x160_spritesheet_109: -337643153
+      demon_slime_FREE_v1.0_288x160_spritesheet_93: 665259017
+      demon_slime_FREE_v1.0_288x160_spritesheet_214: -581507391
+      demon_slime_FREE_v1.0_288x160_spritesheet_183: 2030180330
+      demon_slime_FREE_v1.0_288x160_spritesheet_39: 1727613163
+      demon_slime_FREE_v1.0_288x160_spritesheet_60: 1407053516
+      demon_slime_FREE_v1.0_288x160_spritesheet_126: 1980324566
+      demon_slime_FREE_v1.0_288x160_spritesheet_191: -511548986
+      demon_slime_FREE_v1.0_288x160_spritesheet_9: -2134546372
+      demon_slime_FREE_v1.0_288x160_spritesheet_159: 495709101
+      demon_slime_FREE_v1.0_288x160_spritesheet_178: 1057837053
+      demon_slime_FREE_v1.0_288x160_spritesheet_104: -944128768
+      demon_slime_FREE_v1.0_288x160_spritesheet_200: -36564817
+      demon_slime_FREE_v1.0_288x160_spritesheet_13: -1941198598
+      demon_slime_FREE_v1.0_288x160_spritesheet_165: 845611345
+      demon_slime_FREE_v1.0_288x160_spritesheet_206: -2040256928
+      demon_slime_FREE_v1.0_288x160_spritesheet_118: -1912386932
+      demon_slime_FREE_v1.0_288x160_spritesheet_10: 1155633620
+      demon_slime_FREE_v1.0_288x160_spritesheet_63: 15922454
+      demon_slime_FREE_v1.0_288x160_spritesheet_146: 1610135620
+      demon_slime_FREE_v1.0_288x160_spritesheet_111: -1890430292
+      demon_slime_FREE_v1.0_288x160_spritesheet_0: -1703406981
+      demon_slime_FREE_v1.0_288x160_spritesheet_64: 1856654053
+      demon_slime_FREE_v1.0_288x160_spritesheet_163: 1094761143
+      demon_slime_FREE_v1.0_288x160_spritesheet_196: 976219086
+      demon_slime_FREE_v1.0_288x160_spritesheet_102: -330249387
+      demon_slime_FREE_v1.0_288x160_spritesheet_143: -352863512
+      demon_slime_FREE_v1.0_288x160_spritesheet_208: 2072282922
+      demon_slime_FREE_v1.0_288x160_spritesheet_17: -168749412
+      demon_slime_FREE_v1.0_288x160_spritesheet_220: 1931249425
+      demon_slime_FREE_v1.0_288x160_spritesheet_239: 673078788
+      demon_slime_FREE_v1.0_288x160_spritesheet_16: 2081268404
+      demon_slime_FREE_v1.0_288x160_spritesheet_84: 390606794
+      demon_slime_FREE_v1.0_288x160_spritesheet_113: 176833214
+      demon_slime_FREE_v1.0_288x160_spritesheet_211: 2043111585
+      demon_slime_FREE_v1.0_288x160_spritesheet_24: -593829278
+      demon_slime_FREE_v1.0_288x160_spritesheet_234: -649856511
+      demon_slime_FREE_v1.0_288x160_spritesheet_124: -2141861335
+      demon_slime_FREE_v1.0_288x160_spritesheet_51: 1299680522
+      demon_slime_FREE_v1.0_288x160_spritesheet_15: -52076207
+      demon_slime_FREE_v1.0_288x160_spritesheet_70: 1457644466
+      demon_slime_FREE_v1.0_288x160_spritesheet_119: -414079653
+      demon_slime_FREE_v1.0_288x160_spritesheet_212: 17808129
+      demon_slime_FREE_v1.0_288x160_spritesheet_47: 1443921249
+      demon_slime_FREE_v1.0_288x160_spritesheet_25: -1286515737
+      demon_slime_FREE_v1.0_288x160_spritesheet_53: 2099454555
+      demon_slime_FREE_v1.0_288x160_spritesheet_81: -1734491691
+      demon_slime_FREE_v1.0_288x160_spritesheet_224: 325288917
+      demon_slime_FREE_v1.0_288x160_spritesheet_202: 570983969
+      demon_slime_FREE_v1.0_288x160_spritesheet_80: -297477211
+      demon_slime_FREE_v1.0_288x160_spritesheet_151: -614506905
+      demon_slime_FREE_v1.0_288x160_spritesheet_97: -1368680801
+      demon_slime_FREE_v1.0_288x160_spritesheet_188: 373988299
+      demon_slime_FREE_v1.0_288x160_spritesheet_82: 1860874037
+      demon_slime_FREE_v1.0_288x160_spritesheet_103: -33795182
+      demon_slime_FREE_v1.0_288x160_spritesheet_88: -1231425514
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
